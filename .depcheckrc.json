@@ -1,0 +1,3 @@
+{
+	"ignores": ["pnpm", "lint-staged", "prettier", "stylelint", "prettier-plugin-sh"]
+}
